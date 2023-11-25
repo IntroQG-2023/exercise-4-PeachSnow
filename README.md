@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/vSk_Smgy)
 # Exercise 4: Advection and diffusion of heat (20 points)
 
 In this week's exercise we will explore how the advection and diffusion equations can be combined to simulate heat transfer in the crust including the effects of sedimentation or erosion. We will begin with an example of steady-state heat transfer, in which we calculate a stable geotherm that does not change with time. Then we will consider the time-dependent heat transfer problem. Finally, we will compare the results of the two calculations.
