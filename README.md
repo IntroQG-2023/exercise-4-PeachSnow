@@ -28,11 +28,11 @@ Before starting to work with the problems for this week, you should start a new 
 There are 2 problems for this week in one notebook.
 
 - [Problems 1-2: Advection and diffusion of heat (20 points)](Exercise-4-problems-1-2.ipynb)
-## Exercise 4 grade and feedback: 0.0 / 20.0 points
+## Exercise 4 grade and feedback: 20.0 / 20.0 points
 ### Grader
-- graderbot (*awaiting review by a course grader!*)
+- Leevi
 ### Problem scores
-- Problem 1: 0.0 / 9.0 
-- Problem 2: 0.0 / 11.0 
+- Problem 1: 9.0 / 9.0 
+- Problem 2: 11.0 / 11.0 
 ### Comments
-- Comments will be added here.
+- Well done!
